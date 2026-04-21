@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRM</string>
+    <string name="email">Email</string>
+    <string name="get_started_with_your_nflexible_free_trial">Get started with your\nflexible free trial</string>
+    <string name="crm_admin">CRM Admin</string>
+    <string name="adresse_email">ADRESSE EMAIL</string>
+</resources>
